@@ -1664,5 +1664,14 @@ blockquote::before {
   .donate-form {
     padding: 25px;
   }
+
+
+  /* MORE CSS */
+
+  #navlogo{
+    /* width: 20px;
+    height: 20px; */
+    display: none;
+  }
 }
 
